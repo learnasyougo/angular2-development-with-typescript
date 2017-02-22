@@ -1,7 +1,7 @@
 {
-  "name": "angular-seed",
+  "name": "auction-excercise",
   "version": "1.0.0",
-  "description": "An initial npm-managed project for Chapter 2",
+  "description": "An excercise, version \"Chapter 2\"",
   "private": true,
   "scripts": {
     "start": "./node_modules/.bin/live-server"
