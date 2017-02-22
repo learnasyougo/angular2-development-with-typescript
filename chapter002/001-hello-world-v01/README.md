@@ -1,0 +1,1 @@
+Fire up a terminal/console windows and navigate to this directory. Run `npm install && npm start`, it will install the necessary node packages (locally) and then start the application in the default browser.
