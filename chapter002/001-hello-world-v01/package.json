@@ -1,0 +1,23 @@
+{
+  "name": "001-hello-world-v01",
+  "version": "1.0.0",
+  "description": "Hello world example in TypeScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "./node_modules/.bin/live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learnasyougo/angular2-development-with-typescript"
+  },
+  "keywords": [
+    "typescript",
+    "angular"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "live-server": "^1.2.0"
+  }
+}
